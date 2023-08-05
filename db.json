@@ -1,0 +1,40 @@
+{
+  "CoursesData": [
+    {
+      "id": 1,
+      "name": "Web Developer",
+      "describe": "Qanday qilib veb-dasturchilikda mutaxassis bo'lish mumkin",
+      "img": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=4425994514115851"
+    },
+    {
+      "id": 2,
+      "name": "UI/UX Dizayn",
+      "describe": "Shaxslararo ko'nikmalar - boshqalar bilan yaxshiroq ishlang!",
+      "img": "https://miro.medium.com/v2/resize:fit:1200/0*v4yyhL1nttFvv4J4.png"
+    },
+    {
+      "id": 3,
+      "name": "UX tadqiqoti",
+      "describe": "Dizayn asoslarida foydalanuvchi tajribasi",
+      "img": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1112600/budget-ux-user-research-3c9fd05d6141ef7c61fd1c8781b8ad77.png"
+    },
+    {
+      "id": 4,
+      "name": "3D Dizayn",
+      "describe": "Blenderda 3D modellashtirishni yaratish",
+      "img": "https://www.designsmix.com/wp-content/uploads/2016/01/3d_graphic_design_by_moiseshenrique.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kompyuter savodxonligi",
+      "describe": "Bu shunchaki mahorat emas, balki zaruratdir",
+      "img": "https://1.bp.blogspot.com/-b5sdB4qPjkA/Xv5Pn4WGSuI/AAAAAAAALpE/w9hw-tsThXI8vfAbxHwVO6w_77wu9b7JQCK4BGAsYHg/w1600/339250-PAJEZ7-269.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kids",
+      "describe": "Kodlashni o'rganishning qiziqarli usuli.",
+      "img": "https://media.baamboozle.com/uploads/images/185107/1639317822_144923.jpeg"
+    }
+  ]
+}
