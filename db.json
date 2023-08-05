@@ -4,37 +4,37 @@
       "id": 1,
       "name": "Web Developer",
       "describe": "Qanday qilib veb-dasturchilikda mutaxassis bo'lish mumkin",
-      "img": "https://ibb.co/8d1wc0Y"
+      "img": "https://i.ibb.co/k9NT1xm/3.png"
     },
     {
       "id": 2,
       "name": "UI/UX Dizayn",
       "describe": "Shaxslararo ko'nikmalar - boshqalar bilan yaxshiroq ishlang!",
-      "img": "https://ibb.co/F4tZkpt"
+      "img": "https://i.ibb.co/qYwqL6w/1.png"
     },
     {
       "id": 3,
       "name": "UX tadqiqoti",
       "describe": "Dizayn asoslarida foydalanuvchi tajribasi",
-      "img": "https://ibb.co/PG2fwrm"
+      "img": "https://i.ibb.co/hFGtDg7/5.png"
     },
     {
       "id": 4,
       "name": "3D Dizayn",
       "describe": "Blenderda 3D modellashtirishni yaratish",
-      "img": "https://ibb.co/gWQcsVJ"
+      "img": "https://i.ibb.co/B6vY8NB/2.png"
     },
     {
       "id": 5,
       "name": "Kompyuter savodxonligi",
       "describe": "Bu shunchaki mahorat emas, balki zaruratdir",
-      "img": "https://ibb.co/XFf04YL"
+      "img": "https://i.ibb.co/hFGtDg7/5.png"
     },
     {
       "id": 6,
       "name": "Kids",
       "describe": "Kodlashni o'rganishning qiziqarli usuli.",
-      "img": "https://ibb.co/k5KfDyG"
+      "img": "https://i.ibb.co/ckJH8vy/4.png"
     }
   ]
 }
